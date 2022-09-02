@@ -8,7 +8,7 @@ type Props = {
   setPlayerUrl: (url: string) => void
 }
 export default function EpisodePage(props: Props) {
-  if (!props.episode) return null
+  //if (!props.episode) return null
   return (
     <Post
       title={props.episode.title}
@@ -16,7 +16,7 @@ export default function EpisodePage(props: Props) {
       pubDate={new Date(props.episode.pubDate)}
       author={props.episode.authors}
       content={props.content}
-      onPlay={props.setPlayerUrl}
+      onPlay= {props.setPlayerUrl}
     />
   )
 }

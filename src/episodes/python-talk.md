@@ -1,0 +1,1 @@
+Hello fellow programmers, this episode we will talk about some code discussions, tips and tricks, and more. 

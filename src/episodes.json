@@ -2,9 +2,9 @@
   {
     "authors": ["LawMixer"],
     "title": "Python Talk",
-    "pubDate": "None",
+    "pubDate": "09",
     "key": "python-talk",
-    "filename": "python-talk.mp3",
+    "filename": "python-talk", 
     "duration": "30:00",
     "guid": "ptalk",
     "order": 1
