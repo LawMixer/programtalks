@@ -37,7 +37,7 @@ export function genMp3(data: Data, config, plop) {
     .setFrame('TYER', getYear(data.pubDate))
     .setFrame('APIC', {
       type: 3,
-      data: fs.readFileSync('./public/logo.jpg'),
+      data: fs.readFileSync('./public/logo.png'),
       description: data.title,
     })
   writer.addTag()

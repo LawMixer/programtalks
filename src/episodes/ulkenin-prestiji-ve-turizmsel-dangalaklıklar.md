@@ -1,1 +1,0 @@
-Alman mühendisliği bir imaj çalışmasının ürünü mü? Mesir macunu üzerine oyunlar mı oynanıyor? Yerel değerler markalaşamıyor mu? Hepsine evet cevabı verilen bu bölümde türkiyede kurumsal kimliksizlik ve tek ampülcülük, şehirlerarası yollardaki işgüzar kasaba belediyeleri, standardizasyonun önemi ve kurumsal sürdürülübilirlikten bahsedildi.

@@ -1,34 +1,20 @@
 {
-  "title": "Direk-t",
-  "authors": ["Mkg", "Zaib Atsu", "Yardo"],
-  "email": "mehmetmorcay@gmail.com",
+  "title": "ProgramTalks",
+  "authors": ["LawMixer"],
+  "email": "None",
   "categories": [
     {
       "@text": "Technology"
-    },
-    {
-      "@text": "Society & Culture",
-      "category": [
-        {
-          "@text": "Relationships"
-        },
-        {
-          "@text": "Philosophy"
-        }
-      ]
     }
   ],
   "keywords": [
-    "Turkish",
-    "critical thinking",
-    "technology",
-    "society"
+    "Python"
   ],
   "owner": {
-    "name": "Mehmet Morcay",
-    "email": "mehmetmorcay@gmail.com"
+    "name": "LawMixer",
+    "email": ""
   },
-  "copyright": "© Copyright is for losers",
-  "description": "Hiç-kimseye hitaben bir takım diyalektik düşünceler. Konuşmaktan keyif aldığımız konular üzerine dinleyici kaygısı olmadan spontane muhabbet ediyoruz. İçerikte yanlış bilgiler gecebilir, teyid ediniz. Podcastle ilgili reklam ve işbirliği fikirlerinizi kendinize saklayın. Kişisel değerlerinize hakaret etmişsek bu muhtemelen hakaret değildir; siz öyle algılamışsınızdır. Neyi doğru anladınız ki zaten.",
-  "language": "tr"
+  "copyright": "None",
+  "description": "Stuff",
+  "language": "eng"
 }
